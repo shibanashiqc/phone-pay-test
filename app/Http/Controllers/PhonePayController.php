@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-use Shibanashiqc\PhonePay\PhonePay;
+use Shibanashiqc\PhonePayPhp\PhonePay;
 use Illuminate\Http\Request;
 
 class PhonePayController extends Controller
